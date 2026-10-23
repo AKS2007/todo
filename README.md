@@ -17,7 +17,7 @@ You need Node.js 18 or newer.
 
 1. Install dependencies: npm install
 2. Start the API and frontend: npm run dev
-3. Open the Vite address shown in the terminal (usually http://localhost:5173).
+3. Open the Vite address shown in the terminal (usually http://localhost:5174).
 
 The API runs on port 4000. Without a .env file, tasks are stored in tasks.json at the project root. To use MongoDB, copy .env.example to .env, set MONGODB_URI to your local or Atlas connection string, and set MONGODB_DB if you want a different database name.
 
